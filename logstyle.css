@@ -1,0 +1,84 @@
+
+.control-panel {
+    width: 13%;
+    height: 100%;
+    background-color: #f0f0f0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+  
+    padding-top: 20px;
+    overflow-y: auto; 
+}
+.content {
+    margin-left: 220px; /* Adjust as needed to accommodate the control panel width */
+    padding: 20px;
+}
+.a{
+    color: black; 
+    text-decoration: none;
+    font-size: x-large;
+   
+}
+body {
+    background: black;
+    color: white;
+}
+.mb-4
+{
+    margin: 2dvw;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.btn-block {
+    height: auto;
+    padding: 10px;
+}
+
+.logo-container {
+    text-align: center;
+}
+
+.logo {
+    height: 10vh;
+    filter: invert(100%);
+}
+
+.logo-container-small {
+    text-align: center;
+    height: 10vh;
+}
+
+.logo-small {
+    height: 10vh;
+}
+.h1
+{
+    text-align: center;  
+}
+.aimg
+{
+    height: 10vh;
+    filter: invert(100%);
+    text-align: left;
+
+}
+.btn-light
+{
+    width:100% ;
+}
+.text-md-left
+{
+    margin-top: 2vh;
+}
